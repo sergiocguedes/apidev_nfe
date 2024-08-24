@@ -9,6 +9,9 @@ https://www.lazarus-ide.org/
 
 Componentes
 
+Para geração do xml, assinatura, envio para sefaz estamos utilizando o acbr
+https://projetoacbr.com.br/sobre/
+
 Para criação do servidor de api utilizamos os componentes Horse
 https://github.com/HashLoad/horse
 
