@@ -7,7 +7,7 @@
       <Unit>
         <Filename Value="apinfe.lpr"/>
         <IsPartOfProject Value="True"/>
-        <CursorPos X="52" Y="9"/>
+        <CursorPos X="20" Y="9"/>
         <UsageCount Value="91"/>
         <Loaded Value="True"/>
       </Unit>
@@ -18,10 +18,9 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="UfrmPrincipal"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
-        <TopLine Value="19"/>
-        <CursorPos X="39" Y="19"/>
-        <ComponentState Value="1"/>
+        <CursorPos Y="13"/>
         <UsageCount Value="91"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -33,10 +32,9 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="DataModule"/>
         <UnitName Value="UdmPrincipal"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <TopLine Value="3511"/>
-        <CursorPos X="65" Y="3523"/>
+        <CursorPos Y="3525"/>
         <UsageCount Value="91"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -46,7 +44,7 @@
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="4"/>
         <TopLine Value="149"/>
-        <CursorPos X="17" Y="157"/>
+        <CursorPos Y="157"/>
         <UsageCount Value="91"/>
         <Loaded Value="True"/>
       </Unit>
@@ -56,7 +54,7 @@
         <UnitName Value="UFuncoes"/>
         <EditorIndex Value="3"/>
         <TopLine Value="211"/>
-        <CursorPos X="62" Y="233"/>
+        <CursorPos X="46" Y="233"/>
         <UsageCount Value="91"/>
         <Loaded Value="True"/>
       </Unit>
@@ -66,7 +64,6 @@
         <TopLine Value="65"/>
         <CursorPos X="3" Y="84"/>
         <UsageCount Value="4"/>
-        <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit>
       <Unit>
         <Filename Value="/usr/share/fpcsrc/3.2.2/packages/fcl-base/src/base64.pp"/>
@@ -137,7 +134,6 @@
         <TopLine Value="1238"/>
         <CursorPos X="43" Y="1264"/>
         <UsageCount Value="10"/>
-        <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit>
       <Unit>
         <Filename Value="../../comp/ACbr/trunk2/Fontes/ACBrDFe/ACBrXmlDocument.pas"/>
@@ -197,10 +193,6 @@
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="udmprincipal.pas"/>
-        <Caret Line="3533" TopLine="3520"/>
-      </Position>
       <Position>
         <Filename Value="udmprincipal.pas"/>
         <Caret Line="3536" TopLine="3520"/>
@@ -306,16 +298,20 @@
         <Caret Line="3541" Column="43" TopLine="3526"/>
       </Position>
       <Position>
-        <Filename Value="udmprincipal.pas"/>
-        <Caret Line="557" Column="3" TopLine="632"/>
-      </Position>
-      <Position>
         <Filename Value="ufuncoes.pas"/>
         <Caret Line="1188" Column="61" TopLine="1171"/>
       </Position>
       <Position>
         <Filename Value="ufuncoes.pas"/>
         <Caret Line="233" Column="62" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3525" Column="51" TopLine="3511"/>
+      </Position>
+      <Position>
+        <Filename Value="ufrmprincipal.pas"/>
+        <Caret Line="27" Column="97"/>
       </Position>
     </JumpHistory>
     <RunParams>

@@ -82,7 +82,7 @@
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="../../comp/Hashload/dataset-serialize/src;../../comp/Hashload/horse/src;../../comp/Hashload/horse-basic-auth/src;../../comp/Hashload/jhonson/src"/>
+      <OtherUnitFiles Value="../../../../projetos/comp/Hashload/horse/src;../../../../projetos/comp/Hashload/horse-basic-auth/src;../../../../projetos/comp/Hashload/horse-cors/src;../../../../projetos/comp/Hashload/jhonson/src;../../../../projetos/comp/Hashload/dataset-serialize/src"/>
       <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <Linking>
