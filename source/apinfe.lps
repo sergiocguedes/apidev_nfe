@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="apinfe.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="52" Y="9"/>
+        <UsageCount Value="91"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ufrmprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPrincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UfrmPrincipal"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="19"/>
+        <CursorPos X="39" Y="19"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="91"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udmprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dmPrincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="UdmPrincipal"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="3511"/>
+        <CursorPos X="65" Y="3523"/>
+        <UsageCount Value="91"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controllernfce.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="149"/>
+        <CursorPos X="17" Y="157"/>
+        <UsageCount Value="91"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ufuncoes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UFuncoes"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="211"/>
+        <CursorPos X="62" Y="233"/>
+        <UsageCount Value="91"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../.lazarus/onlinepackagemanager/packages/zeosdbo/src/component/ZDataset.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="3" Y="84"/>
+        <UsageCount Value="4"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/packages/fcl-base/src/base64.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="27" Y="12"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/Hashload/horse/src/Horse.Core.Param.Config.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="5" Y="20"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/packages/rtl-generics/src/generics.collections.pas"/>
+        <UnitName Value="Generics.Collections"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1167"/>
+        <CursorPos X="37" Y="1192"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/unix/sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="677"/>
+        <CursorPos X="33" Y="691"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/inc/ustrings.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2371"/>
+        <CursorPos X="3" Y="2381"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="709"/>
+        <CursorPos X="3" Y="727"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/packages/fcl-json/src/fpjson.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3886"/>
+        <CursorPos X="22" Y="3909"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/Hashload/horse-basic-auth/src/Horse.BasicAuthentication.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="128"/>
+        <CursorPos X="92" Y="89"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/Hashload/horse/src/Horse.Core.RouterTree.NextCaller.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <CursorPos Y="126"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../.lazarus/onlinepackagemanager/packages/zeosdbo/src/dbc/ZDbcMySql.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1238"/>
+        <CursorPos X="43" Y="1264"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/ACbr/trunk2/Fontes/ACBrDFe/ACBrXmlDocument.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1329"/>
+        <CursorPos X="33" Y="1354"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/ACbr/trunk2/Fontes/ACBrDFe/ACBrDFeSSL.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="47"/>
+        <CursorPos X="20" Y="54"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/ACbr/trunk2/Fontes/ACBrDFe/ACBrLibXml2.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos X="47" Y="64"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/ACbr/trunk2/Fontes/ACBrDFe/ACBrDFeUtil.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="170"/>
+        <CursorPos Y="188"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/ACbr/trunk2/Fontes/ACBrDFe/ACBrNFe/PCNNFe/pcnNFe.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="721"/>
+        <CursorPos X="49" Y="741"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/Hashload/horse/src/Horse.Provider.FPC.LCL.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="259"/>
+        <CursorPos Y="293"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/ACbr/trunk2/Fontes/ACBrComum/ACBrUtil.Strings.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1159"/>
+        <CursorPos X="3" Y="1167"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../comp/ACbr/trunk2/Fontes/ACBrDFe/ACBrNFe/ACBrNFeNotasFiscais.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="372"/>
+        <CursorPos Y="395"/>
+        <UsageCount Value="13"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3533" TopLine="3520"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3536" TopLine="3520"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3533" TopLine="3520"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3537" TopLine="3520"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3538" TopLine="3520"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3539" TopLine="3520"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3541" TopLine="3520"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3550" TopLine="3520"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3551" TopLine="3535"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3553" TopLine="3535"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3554" TopLine="3535"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3555" TopLine="3535"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3557" TopLine="3535"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3558" TopLine="3535"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3567" TopLine="3544"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3568" TopLine="3544"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3570" TopLine="3556"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3572" TopLine="3556"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3573" TopLine="3556"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3575" TopLine="3556"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3574" TopLine="3556"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3576" TopLine="3556"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3577" TopLine="3556"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3579" TopLine="3556"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3582" TopLine="3556"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3583" TopLine="3556"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="3541" Column="43" TopLine="3526"/>
+      </Position>
+      <Position>
+        <Filename Value="udmprincipal.pas"/>
+        <Caret Line="557" Column="3" TopLine="632"/>
+      </Position>
+      <Position>
+        <Filename Value="ufuncoes.pas"/>
+        <Caret Line="1188" Column="61" TopLine="1171"/>
+      </Position>
+      <Position>
+        <Filename Value="ufuncoes.pas"/>
+        <Caret Line="233" Column="62" TopLine="211"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="udmprincipal.pas"/>
+        <Line Value="1222"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

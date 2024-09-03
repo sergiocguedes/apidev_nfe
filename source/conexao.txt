@@ -1,0 +1,6 @@
+[GESTOR]
+SERVIDOR=localhost
+BANCO=apidfe
+USUARIO=admin
+SENHA=gXQS89!4Dp&%
+TIPO_BANCO=MYSQL

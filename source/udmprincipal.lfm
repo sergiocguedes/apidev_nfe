@@ -1,0 +1,150 @@
+object dmPrincipal: TdmPrincipal
+  OldCreateOrder = False
+  Height = 459
+  HorizontalOffset = 331
+  VerticalOffset = 140
+  Width = 664
+  object Conn: TZConnection
+    ControlsCodePage = cCP_UTF8
+    Properties.Strings = (
+      'RawStringEncoding=DB_CP'
+    )
+    DisableSavepoints = False
+    HostName = 'localhost'
+    Port = 3306
+    Database = 'clickfree'
+    User = 'admin'
+    Password = 'gXQS89!4Dp&%'
+    Protocol = 'mariadb'
+    Left = 104
+    Top = 56
+  end
+  object ACBrNFe: TACBrNFe
+    Configuracoes.Geral.SSLLib = libNone
+    Configuracoes.Geral.SSLCryptLib = cryNone
+    Configuracoes.Geral.SSLHttpLib = httpNone
+    Configuracoes.Geral.SSLXmlSignLib = xsNone
+    Configuracoes.Geral.FormatoAlerta = 'TAG:%TAGNIVEL% ID:%ID%/%TAG%(%DESCRICAO%) - %MSG%.'
+    Configuracoes.Arquivos.OrdenacaoPath = <>
+    Configuracoes.WebServices.UF = 'SP'
+    Configuracoes.WebServices.AguardarConsultaRet = 0
+    Configuracoes.WebServices.QuebradeLinha = '|'
+    Configuracoes.RespTec.IdCSRT = 0
+    DANFE = ACBrNFeDANFeFPDF1
+    Left = 272
+    Top = 56
+  end
+  object ACBrNFeDANFeFPDF1: TACBrNFeDANFeFPDF
+    Sistema = 'Projeto ACBr - www.projetoacbr.com.br'
+    MargemInferior = 8
+    MargemSuperior = 8
+    MargemEsquerda = 6
+    MargemDireita = 5.1
+    ExpandeLogoMarcaConfig.Altura = 0
+    ExpandeLogoMarcaConfig.Esquerda = 0
+    ExpandeLogoMarcaConfig.Topo = 0
+    ExpandeLogoMarcaConfig.Largura = 0
+    ExpandeLogoMarcaConfig.Dimensionar = False
+    ExpandeLogoMarcaConfig.Esticar = True
+    CasasDecimais.Formato = tdetInteger
+    CasasDecimais.qCom = 2
+    CasasDecimais.vUnCom = 2
+    CasasDecimais.MaskqCom = ',0.00'
+    CasasDecimais.MaskvUnCom = ',0.00'
+    CasasDecimais.Aliquota = 2
+    CasasDecimais.MaskAliquota = ',0.00'
+    ACBrNFe = ACBrNFe
+    Left = 144
+    Top = 160
+  end
+  object ACBrNFSeX1: TACBrNFSeX
+    Configuracoes.Geral.SSLLib = libNone
+    Configuracoes.Geral.SSLCryptLib = cryNone
+    Configuracoes.Geral.SSLHttpLib = httpNone
+    Configuracoes.Geral.SSLXmlSignLib = xsNone
+    Configuracoes.Geral.FormatoAlerta = 'TAG:%TAGNIVEL% ID:%ID%/%TAG%(%DESCRICAO%) - %MSG%.'
+    Configuracoes.Geral.CodigoMunicipio = 0
+    Configuracoes.Geral.Provedor = proNenhum
+    Configuracoes.Geral.Versao = ve100
+    Configuracoes.Arquivos.OrdenacaoPath = <>
+    Configuracoes.WebServices.UF = 'SP'
+    Configuracoes.WebServices.AguardarConsultaRet = 0
+    Configuracoes.WebServices.QuebradeLinha = '|'
+    Left = 400
+    Top = 48
+  end
+  object ACBrNFSeXDANFSeFPDF1: TACBrNFSeXDANFSeFPDF
+    Sistema = 'Projeto ACBr - www.projetoacbr.com.br'
+    MargemInferior = 8
+    MargemSuperior = 8
+    MargemEsquerda = 6
+    MargemDireita = 5.1
+    ExpandeLogoMarcaConfig.Altura = 0
+    ExpandeLogoMarcaConfig.Esquerda = 0
+    ExpandeLogoMarcaConfig.Topo = 0
+    ExpandeLogoMarcaConfig.Largura = 0
+    ExpandeLogoMarcaConfig.Dimensionar = False
+    ExpandeLogoMarcaConfig.Esticar = True
+    CasasDecimais.Formato = tdetInteger
+    CasasDecimais.qCom = 2
+    CasasDecimais.vUnCom = 2
+    CasasDecimais.MaskqCom = ',0.00'
+    CasasDecimais.MaskvUnCom = ',0.00'
+    CasasDecimais.Aliquota = 2
+    CasasDecimais.MaskAliquota = ',0.00'
+    Cancelada = False
+    Provedor = proNenhum
+    TamanhoFonte = 6
+    FormatarNumeroDocumentoNFSe = True
+    Producao = snSim
+    Left = 136
+    Top = 328
+  end
+  object ACBrNFCeDANFeFPDF1: TACBrNFCeDANFeFPDF
+    Sistema = 'Projeto ACBr - www.projetoacbr.com.br'
+    MargemInferior = 8
+    MargemSuperior = 8
+    MargemEsquerda = 6
+    MargemDireita = 5.1
+    ExpandeLogoMarcaConfig.Altura = 0
+    ExpandeLogoMarcaConfig.Esquerda = 0
+    ExpandeLogoMarcaConfig.Topo = 0
+    ExpandeLogoMarcaConfig.Largura = 0
+    ExpandeLogoMarcaConfig.Dimensionar = False
+    ExpandeLogoMarcaConfig.Esticar = True
+    CasasDecimais.Formato = tdetInteger
+    CasasDecimais.qCom = 2
+    CasasDecimais.vUnCom = 2
+    CasasDecimais.MaskqCom = ',0.00'
+    CasasDecimais.MaskvUnCom = ',0.00'
+    CasasDecimais.Aliquota = 2
+    CasasDecimais.MaskAliquota = ',0.00'
+    Left = 136
+    Top = 248
+  end
+  object mmNotas: TZMemTable
+    ControlsCodePage = cDynamic
+    Left = 368
+    Top = 184
+  end
+  object mmItensNota: TZMemTable
+    ControlsCodePage = cDynamic
+    Left = 480
+    Top = 184
+  end
+  object mmPag: TZMemTable
+    ControlsCodePage = cDynamic
+    Left = 376
+    Top = 272
+  end
+  object mmEmpresa: TZMemTable
+    ControlsCodePage = cDynamic
+    Left = 472
+    Top = 272
+  end
+  object mmEvento: TZMemTable
+    ControlsCodePage = cDynamic
+    Left = 416
+    Top = 352
+  end
+end
